@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAi\\Tests\\Tests.csproj": {}
+    "C:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAiSolution\\Tests\\Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAi\\Tests\\Tests.csproj": {
+    "C:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAiSolution\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAi\\Tests\\Tests.csproj",
+        "projectUniqueName": "C:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAiSolution\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "C:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAi\\Tests\\Tests.csproj",
+        "projectPath": "C:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAiSolution\\Tests\\Tests.csproj",
         "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAi\\Tests\\obj\\",
+        "outputPath": "C:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAiSolution\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\steve\\AppData\\Roaming\\NuGet\\NuGet.Config"

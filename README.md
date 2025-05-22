@@ -4,9 +4,13 @@ This is my first Ai project, where the idea is actually from an episode of Jimmy
 
 ### Built With:
 * [Next.js](https://nextjs.org/)
-* [C#](https://github.com/go-chi/chi)
-* [MongoDB-Atlas](https://www.mongodb.com/cloud/atlas)
+* [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
+* [ASP.NET](https://www.asp.net/)
+* [PostgreSQL](https://www.postgresql.org/)
 * [Python](https://www.python.org/)
+* [OpenAi](https://openai.com/)
+* [Azure](https://azure.microsoft.com/)
+* [Vercel](https://vercel.com/)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

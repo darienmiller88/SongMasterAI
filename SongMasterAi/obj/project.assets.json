@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAi\\SongMasterAi\\SongMasterAi.csproj",
+      "projectUniqueName": "c:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAiSolution\\SongMAsterAi\\SongMasterAi.csproj",
       "projectName": "SongMasterAi",
-      "projectPath": "C:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAi\\SongMasterAi\\SongMasterAi.csproj",
+      "projectPath": "c:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAiSolution\\SongMAsterAi\\SongMasterAi.csproj",
       "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAi\\SongMasterAi\\obj\\",
+      "outputPath": "c:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAiSolution\\SongMAsterAi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\steve\\AppData\\Roaming\\NuGet\\NuGet.Config"

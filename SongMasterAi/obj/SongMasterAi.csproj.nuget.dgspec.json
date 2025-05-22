@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAi\\SongMAsterAi\\SongMasterAi.csproj": {}
+    "C:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAiSolution\\SongMAsterAi\\SongMasterAi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAi\\SongMAsterAi\\SongMasterAi.csproj": {
+    "C:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAiSolution\\SongMAsterAi\\SongMasterAi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAi\\SongMAsterAi\\SongMasterAi.csproj",
+        "projectUniqueName": "C:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAiSolution\\SongMAsterAi\\SongMasterAi.csproj",
         "projectName": "SongMasterAi",
-        "projectPath": "C:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAi\\SongMAsterAi\\SongMasterAi.csproj",
+        "projectPath": "C:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAiSolution\\SongMAsterAi\\SongMasterAi.csproj",
         "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAi\\SongMAsterAi\\obj\\",
+        "outputPath": "C:\\Users\\steve\\Desktop\\csharp projects\\SongMasterAiSolution\\SongMAsterAi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\steve\\AppData\\Roaming\\NuGet\\NuGet.Config"
