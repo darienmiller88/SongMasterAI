@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SongMasterAi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05eba73302e46a56d1db0ba8f29699c727824940")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a536a3040d165aa1a4a2881815f3d9758f9e70b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SongMasterAi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SongMasterAi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

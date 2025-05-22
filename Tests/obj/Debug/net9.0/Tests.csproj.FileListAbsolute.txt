@@ -104,9 +104,6 @@ c:\Users\steve\Desktop\csharp projects\SongMasterAi\Tests\obj\Debug\net9.0\Tests
 c:\Users\steve\Desktop\csharp projects\SongMasterAi\Tests\obj\Debug\net9.0\ref\Tests.dll
 c:\Users\steve\Desktop\csharp projects\SongMasterAiSolution\Tests\bin\Debug\net9.0\testhost.exe
 c:\Users\steve\Desktop\csharp projects\SongMasterAiSolution\Tests\bin\Debug\net9.0\testhost.dll
-c:\Users\steve\Desktop\csharp projects\SongMasterAiSolution\Tests\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
-c:\Users\steve\Desktop\csharp projects\SongMasterAiSolution\Tests\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll
-c:\Users\steve\Desktop\csharp projects\SongMasterAiSolution\Tests\bin\Debug\net9.0\xunit.runner.utility.netcoreapp10.dll
 c:\Users\steve\Desktop\csharp projects\SongMasterAiSolution\Tests\bin\Debug\net9.0\Tests.deps.json
 c:\Users\steve\Desktop\csharp projects\SongMasterAiSolution\Tests\bin\Debug\net9.0\Tests.runtimeconfig.json
 c:\Users\steve\Desktop\csharp projects\SongMasterAiSolution\Tests\bin\Debug\net9.0\Tests.dll
