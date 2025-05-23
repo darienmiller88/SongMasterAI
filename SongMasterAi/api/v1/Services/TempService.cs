@@ -1,30 +1,33 @@
+using api.v1.Models;
+
 namespace api.v1.Services;
 
-public interface ITempservices{
-    string GetTemp();
-    string PostTemp();
-    string PutTemp();
-    string DeleteTemp();
+public interface ITempservices
+{
+    Task<TempModel> GetTemp();
+    Task<TempModel> PostTemp();
+    Task<TempModel> PutTemp();
+    Task<TempModel> DeleteTemp();
 }
 
 public class TempServices : ITempservices
 {
-    public string DeleteTemp()
+    public Task<TempModel> DeleteTemp()
     {
         throw new NotImplementedException();
     }
 
-    public string GetTemp()
+    public Task<TempModel> GetTemp()
     {
         throw new NotImplementedException();
     }
 
-    public string PostTemp()
+    public Task<TempModel> PostTemp()
     {
         throw new NotImplementedException();
     }
 
-    public string PutTemp()
+    public Task<TempModel> PutTemp()
     {
         throw new NotImplementedException();
     }
